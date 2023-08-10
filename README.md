@@ -1,5 +1,4 @@
-# This repository contains all of the programs developed in my master's thesis, titled
-# "Accelerating computations for dark matter direct detection experiments via neural networks and GPUs".
+# This repository contains all of the programs developed in my master's thesis, titled "Accelerating computations for dark matter direct detection experiments via neural networks and GPUs".
 
 The "original" directory contains the first Python program given to me at the beginning of the project,
 developed by my co-supervisor Einar Urdshals. In "cpp_cpu", I have developed a optimised version of
